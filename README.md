@@ -7,8 +7,7 @@ It helps users track their income, expenses, and savings efficiently.
 
 ## 📂 Project Structure
 
-- **Backend (API)**: ASP.NET 9 Web API  
-- **Frontend (UI)**: Ready-made template connected to the API  
+- **Backend (API)**: ASP.NET 9 Web API   
 - **Database**: SQL Server Local  
 
 ---
